@@ -1,0 +1,1 @@
+import{La as a,Ma as i,Pa as r,Sa as c,_ as o}from"./chunk-FVHFTNIJ.js";var f=(()=>{let t=class t{};t.\u0275fac=function(n){return new(n||t)},t.\u0275cmp=o({type:t,selectors:[["app-contacto"]],standalone:!0,features:[c],decls:2,vars:0,template:function(n,p){n&1&&(a(0,"p"),r(1,"contacto works!"),i())}});let e=t;return e})();export{f as default};

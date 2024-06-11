@@ -1,0 +1,1 @@
+import{La as o,Ma as a,Pa as r,Sa as p,_ as i}from"./chunk-FVHFTNIJ.js";var c=(()=>{let e=class e{};e.\u0275fac=function(n){return new(n||e)},e.\u0275cmp=i({type:e,selectors:[["app-perfil"]],standalone:!0,features:[p],decls:2,vars:0,template:function(n,f){n&1&&(o(0,"p"),r(1,"perfil works!"),a())}});let t=e;return t})();export{c as default};
